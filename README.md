@@ -1,4 +1,4 @@
- Hi i there 👋
+ Hi there 👋
 
 Me llamo Sebastian Ortega y soy un entusiasta programador Jr con una experiencia única en mi haber: previamente, me desempeñé en las fuerzas armadas, donde adquirí valiosas habilidades, como la capacidad de tomar decisiones bajo presión y trabajar en equipo en situaciones desafiantes.
 
