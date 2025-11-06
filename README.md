@@ -1,6 +1,6 @@
  Hi there 👋
 
-Me llamo Sebastian Ortega y soy un entusiasta programador con una experiencia única en mi : previamente, me desempeñé en las fuerzas armadas, donde adquirí valiosas habilidades, como la capacidad de tomar decisiones bajo presión y trabajar en equipo en situaciones desafiantes.
+Me llamo Sebastian Ortega y soy un entusiasta programador : previamente, me desempeñé en las fuerzas armadas, donde adquirí valiosas habilidades, como la capacidad de tomar decisiones bajo presión y trabajar en equipo en situaciones desafiantes.
 
 Aunque soy relativamente nuevo en el mundo del desarrollo de software, mi determinación y compromiso con el aprendizaje son inquebrantables. Mi objetivo es convertirme en un profesional competente en áreas como desarrollo web y estoy dedicado a adquirir los conocimientos necesarios para lograrlo.
 
